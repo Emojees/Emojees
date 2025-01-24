@@ -1,4 +1,6 @@
- # Schedule the workflow to run daily at midnight UTC
+on:
+
+  # Schedule the workflow to run daily at midnight UTC
 
   schedule:
 
